@@ -9,7 +9,7 @@ This project is intended to develop an automated reminder system in Python to re
 
 # Project Scope
 
-With the system, the user can set:
+**With the system, the user can set:**
 
 * Custom start hour
 
@@ -36,32 +36,32 @@ With the system, the user can set:
 
 # Target Users
 
-This solution is ideal for the:
+**This solution is ideal for the:**
 
-* **Students**
+* Students
 
-* **Office workers**
+* Office workers
 
-* **Programmers**
+* Programmers
 
-* **Fitness-conscious people**
+* Fitness-conscious people
 
-* **Anyone wanting to build a hydration habit**
+* Anyone wanting to build a hydration habit
 
 
 
 # High-Level Features
 
-* **Configurable start & end time**
+* Configurable start & end time
 
-* **Custom reminder interval**
+* Custom reminder interval
 
-* **Beep sound notification for every reminder**
+* Beep sound notification for every reminder
 
-* **Input validation: accepts only Y/N**
+* Input validation: accepts only Y/N
 
-* **Calculation of hydration percentage**
+* Calculation of hydration percentage
 
-* **Time-based hydration performance tracking**
+* **Time-based hydration performance tracking
 
-* **Line chart visualization (Matplotlib) Lightweight and simple Python script**
+* Line chart visualization (Matplotlib) Lightweight and simple Python script
