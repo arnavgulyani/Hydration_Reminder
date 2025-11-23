@@ -1,8 +1,8 @@
-Hydration_Reminder
+# Hydration_Reminder
 
 A Python-based hydration reminder that will automatically remind you at regular intervals, tracks how many times you drink water, and generates a visual chart of your hydration performance throughout the day.
 
-Overview
+# Overview
 
 This project will remind the user to drink water at regular intervals between a selected time range.
 
