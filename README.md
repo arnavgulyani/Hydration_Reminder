@@ -78,7 +78,7 @@ Stats: Drank 2/3 (66.67%)
 
 * Time of each reminder
 * Hydration percentage over the day
-* This provides a visual of how consistent your water intake was.
+* Provides a visual of how consistent your water intake was.
 * Testing Instructions
 
 # Try different combinations
